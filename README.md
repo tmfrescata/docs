@@ -12,11 +12,11 @@ O projeto **Maria Músicas** quer ser um contributo para promover a música reli
 
 {% page-ref page="download/mini-so-letras-a6.md" %}
 
-## Conhece melhor como funciona
+## Conhece melhor a nossa ideia
 
-A nossa aposta consiste em consolidar uma única base de dados com muitas músicas em várias línguas.
+A nossa aposta consiste em consolidar uma base de dados única com muitas músicas em várias línguas.
 
-Estas podem ser usadas de diferentes formas, segundo a necessidade e uso de cada comunidade, para apoiar as celebrações e oração pessoal.
+Estas podem ser usadas de diferentes formas, segundo a necessidade e uso de cada comunidade, para apoiar tanto as celebrações como a oração pessoal.
 
 {% embed url="https://youtu.be/b0c4IOwtpnc" caption="Exemplo de como criar uma nova música para a base de dados." %}
 
