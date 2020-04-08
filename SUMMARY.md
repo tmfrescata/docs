@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Bem-vindos](README.md)
-* [Todas as músicas](http://www.pioneiros.info/musicas/)
+* [Todas as músicas](http://htmlpreview.github.io/?https://github.com/mariamusicas/docs/blob/master/todas.html)
 
 ## Download
 
