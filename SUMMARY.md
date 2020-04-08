@@ -7,5 +7,5 @@
 
 * [Original \(≈A5\)](download/original-a5.md)
 * [Mini só letras \(A6\)](download/mini-so-letras-a6.md)
-* [Formatos antigos](formatos-antigos.md)
+* [Formatos antigos](download/formatos-antigos.md)
 
