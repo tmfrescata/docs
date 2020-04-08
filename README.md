@@ -14,9 +14,9 @@ O projeto **Maria Músicas** quer ser um contributo para promover a música reli
 
 ## Conhece melhor a nossa ideia
 
-A nossa aposta consiste em consolidar uma base de dados única com muitas músicas em várias línguas.
+A nossa aposta consiste em consolidar **uma base de dados única** com muitas músicas em várias línguas.
 
-Estas podem ser usadas de diferentes formas, segundo a necessidade e uso de cada comunidade, para apoiar tanto as celebrações como a oração pessoal.
+Estas músicas podem ser usadas de diferentes formas, segundo a necessidade e uso de cada comunidade, tanto em celebrações litúrgicas como na oração pessoal.
 
 {% embed url="https://youtu.be/b0c4IOwtpnc" caption="Exemplo de como criar uma nova música para a base de dados." %}
 
@@ -24,6 +24,8 @@ Estas podem ser usadas de diferentes formas, segundo a necessidade e uso de cada
 Visitar página técnica em Github:[  
 https://github.com/mariamusicas/vim](https://github.com/mariamusicas/vim)
 {% endhint %}
+
+A base de dados _oficial_ está guardada em **Schoenstatt Music.**
 
 {% hint style="info" %}
 Visitar Schoenstatt Music:  
