@@ -18,7 +18,7 @@ A nossa aposta consiste em consolidar uma única base de dados com muitas músic
 
 Estas podem ser usadas de diferentes formas, segundo a necessidade e uso de cada comunidade, para apoiar as celebrações e oração pessoal.
 
-
+{% embed url="https://youtu.be/b0c4IOwtpnc" caption="Exemplo de como criar uma nova música para a base de dados." %}
 
 {% hint style="info" %}
 Visitar página técnica em Github:[  
