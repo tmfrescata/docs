@@ -1,5 +1,5 @@
 ---
-description: Maria Músicas Maravilhas Missão
+description: Maria · Músicas · Maravilhas · Missão
 ---
 
 # Bem-vindos
