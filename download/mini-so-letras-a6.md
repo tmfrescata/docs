@@ -1,6 +1,6 @@
 # Mini só letras \(A6\)
 
-{% file src="../.gitbook/assets/m\_letras\_mini \(1\).pdf" caption="Sem compaginar" %}
+{% file src="../.gitbook/assets/m\_letras\_mini.pdf" caption="Sem compaginar" %}
 
 ### Edição para imprimir em A4
 
