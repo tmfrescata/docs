@@ -32,3 +32,8 @@ Visitar Schoenstatt Music:
 [https://schoenstatt.link/en/music](https://schoenstatt.link/en/music)
 {% endhint %}
 
+{% hint style="info" %}
+Contacto:  
+mariamusicas[@](mailto:mariamusicas@padres-schoenstatt.pt)padres-schoenstatt.pt
+{% endhint %}
+
