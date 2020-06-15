@@ -4,6 +4,8 @@ description: Maria · Músicas · Maravilhas · Missão
 
 # Bem-vindos
 
+![](.gitbook/assets/british-library-nn9tlhok8au-unsplash.jpg)
+
 O projeto **Maria Músicas** quer ser um contributo para promover a música religiosa no âmbito da Igreja Católica.
 
 ## Download PDFs
