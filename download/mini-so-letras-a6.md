@@ -2,7 +2,7 @@
 
 {% file src="../.gitbook/assets/m\_letras\_mini.pdf" caption="Sem compaginar" %}
 
-## Edição para imprimir em A4
+### Edição para imprimir em A4
 
 {% file src="../.gitbook/assets/m\_letras\_mini\_a4.pdf" caption="Compaginado em A4" %}
 
