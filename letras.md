@@ -8,16 +8,16 @@
 
 ### Em prosa (versus poesia)
 
-**Prosa** (pontuação e minúsculas)
+#### Prosa (pontuação e minúsculas)
 
-Maravilhas fez em mim**.**
+Maravilhas fez em mim.
 Minh’alma canta de gozo  
 pois na minha pequenez  
-se detiveram seus olhos**.**  
+se detiveram seus olhos.  
 E o Santo e Poderoso  
-espera hoje o meu sim**.**  
-Minha alma canta de gozo**,**  
-maravilhas fez em mim**.**
+espera hoje o meu sim.  
+Minha alma canta de gozo,  
+maravilhas fez em mim.
 
 **Poesia** (sem pontuação e maiúsculas)
 
