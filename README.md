@@ -23,8 +23,13 @@ Estas músicas podem ser usadas de diferentes formas, segundo a necessidade e us
 {% embed url="https://youtu.be/b0c4IOwtpnc" caption="Exemplo de como criar uma nova música para a base de dados." %}
 
 {% hint style="info" %}
-Visitar página técnica em Github:[  
+Visitar página técnica do Vim em Github:[  
 https://github.com/mariamusicas/vim](https://github.com/mariamusicas/vim)
+{% endhint %}
+
+{% hint style="info" %}
+Visitar guia das letras e ortografia  
+[https://github.com/mariamusicas/docs/blob/master/letras.md](https://github.com/mariamusicas/docs/blob/master/letras.md)
 {% endhint %}
 
 A base de dados _oficial_ está guardada em **Schoenstatt Music.**
