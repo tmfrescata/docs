@@ -3,7 +3,6 @@
 ## Correcção da ortografia
 
 - Em prosa (versus poesia)
-
 - Uso de maiúsculas e minúsculas
 
 ### Em prosa (versus poesia)
@@ -19,7 +18,7 @@ espera hoje o meu sim.
 Minha alma canta de gozo,  
 maravilhas fez em mim.
 
-**Poesia** (sem pontuação e maiúsculas)
+#### Poesia (sem pontuação e maiúsculas)
 
 Maravilhas fez em mim  
 Minh’alma canta de gozo  
