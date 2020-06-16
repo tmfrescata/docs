@@ -5,6 +5,8 @@
 - Em prosa (versus poesia)
 - Uso de maiúsculas e minúsculas
 
+![](.gitbook/assets/prosa.png)
+
 ### Em prosa (versus poesia)
 
 | Prosa (pontuação e minúsculas) | Poesia (sem pontuação e maiúsculas) |
