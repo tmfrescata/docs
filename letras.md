@@ -9,7 +9,7 @@
 
 #### Prosa (pontuação e minúsculas)
 
-Maravilhas fez em mim.
+Maravilhas fez em mim.  
 Minh’alma canta de gozo  
 pois na minha pequenez  
 se detiveram seus olhos.  
