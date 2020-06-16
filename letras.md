@@ -9,6 +9,8 @@
 
 ### Em prosa (versus poesia)
 
+> Maravilhas fez em mim. Minh’alma canta de gozo pois na minha pequenez se detiveram seus olhos. E o Santo e Poderoso espera hoje o meu sim. Minha alma canta de gozo, maravilhas fez em mim.
+
 | Prosa (pontuação e minúsculas) | Poesia (sem pontuação e maiúsculas) |
 | - | - |
 | Maravilhas fez em mim. | Maravilhas fez em mim |
